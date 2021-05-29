@@ -14,7 +14,7 @@
 
 ![image](https://user-images.githubusercontent.com/71354808/119383655-444a4380-bccc-11eb-8c62-cccf4eabefdc.png)
 
-В проекте должна находиться только папка venv. Если после создания там лежит main.pyб его можно спокойно удалить.
+В проекте должна находиться только папка venv. Если после создания там лежит main.py, его можно спокойно удалить.
 
 Заходим File -> Settings -> Project: {ваше название} -> Python Interpreter
 
